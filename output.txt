@@ -1,4 +1,4 @@
-/Users/victoria/PyCharmMiscProject/.venv/bin/python /Users/victoria/PyCharmMiscProject/lab6.py
+
 input01.txt
 Кількість елементів: 11
 Сума (раціональний дріб): 12723/616
